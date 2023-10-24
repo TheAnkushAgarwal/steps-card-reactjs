@@ -1,3 +1,8 @@
+![image](https://github.com/TheAnkushAgarwal/steps-card-reactjs/assets/96491776/7cbda316-0304-4fe3-aa6f-d3a897c1997e)
+![image](https://github.com/TheAnkushAgarwal/steps-card-reactjs/assets/96491776/c5913b06-7b6b-4d9e-aec0-3d9ea2e01402)
+![image](https://github.com/TheAnkushAgarwal/steps-card-reactjs/assets/96491776/6ee5fc6a-005b-43c2-96b6-b86f55263a4d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
